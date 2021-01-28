@@ -1,4 +1,4 @@
-package wgsconvert
+package wgs84
 
 import (
 	"math"
